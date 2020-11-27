@@ -151,6 +151,8 @@ html, body {
     object-fit: cover;
 }
 
+
+
 .visible-xxs {
     display: none;
 }
@@ -221,6 +223,10 @@ html, body {
     position: relative;
     height: 100%;
 }
+
+
+
+
 
 .hero .col-md-6:first-child {
     position: absolute;
