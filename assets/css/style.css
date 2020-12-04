@@ -542,11 +542,7 @@ html, body {
 }
 
 .icon {
-    line-height: 40px;
-    padding: 9px 11px;
-    color: #fff;
-    border: 1px solid #fff;
-    border-radius: 50%;
+    top: 50%;
 }
 
 .icon + .icon {
